@@ -15,3 +15,5 @@
 ## Error Report:
  - https://sentry.io/
 
+## Other resources:
+ - https://ethical.net/resources/
