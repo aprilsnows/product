@@ -12,6 +12,9 @@
 ## Testing:
  - https://www.cypress.io/
  
+## Security:
+ - https://snyk.io/
+ 
 ## Error Report:
  - https://sentry.io/
 
