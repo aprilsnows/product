@@ -18,5 +18,8 @@
 ## Error Report:
  - https://sentry.io/
 
+## Automation:
+ - https://greenkeeper.io/
+
 ## Other resources:
  - https://ethical.net/resources/
