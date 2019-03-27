@@ -1,1 +1,17 @@
-# product
+# Product: from 0 to 1
+
+## Estimate:
+ - https://buildmymvp.com/
+
+## Design:
+ - https://www.checklist.design/
+ 
+## Backend:
+ - https://github.com/anttiviljami/openapi-backend
+ 
+## Testing:
+ - https://www.cypress.io/
+ 
+## Error Report:
+ - https://sentry.io/
+
