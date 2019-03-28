@@ -1,5 +1,8 @@
 # Product: from 0 to 1
 
+## Plan
+ - https://www.leanservicecreation.com/
+
 ## Estimate:
  - https://buildmymvp.com/
 
