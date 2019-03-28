@@ -26,6 +26,9 @@
 
 ## Automation:
  - https://greenkeeper.io/
+ 
+## Deployment:
+ - https://www.netlify.com/
 
 ## Other resources:
  - https://ethical.net/resources/
