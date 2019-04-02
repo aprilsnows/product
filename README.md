@@ -28,7 +28,7 @@
  - https://greenkeeper.io/
  
 ## Audit:
- - https://webaud.it
+ - Easily audit your website: https://webaud.it
  
 ## Deployment:
  - https://www.netlify.com/
