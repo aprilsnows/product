@@ -26,6 +26,9 @@
 
 ## Automation:
  - https://greenkeeper.io/
+
+## Validatation:
+ - The fast & visual way to understand your users: https://www.hotjar.com
  
 ## Audit:
  - Easily audit your website: https://webaud.it
