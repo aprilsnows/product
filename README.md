@@ -1,5 +1,8 @@
 # Product: from 0 to 1
 
+## Learn, Book
+ - Product Mindset: https://www.productschool.com/product-mindset-book
+
 ## Plan
  - https://www.leanservicecreation.com/
 
