@@ -5,7 +5,7 @@
 
 ## Plan
  - https://www.leanservicecreation.com/
-
+ 
 ## Estimate:
  - https://buildmymvp.com/
 
@@ -29,6 +29,9 @@
 
 ## Automation:
  - https://greenkeeper.io/
+ 
+## Landing Page:
+ - https://cruip.com/
 
 ## Validatation:
  - The fast & visual way to understand your users: https://www.hotjar.com
