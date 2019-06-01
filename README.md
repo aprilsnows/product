@@ -21,6 +21,9 @@
 ## Testing:
  - https://www.cypress.io/
  
+## User Testing:
+ - https://www.usertesting.com/
+ 
 ## Security:
  - https://snyk.io/
  
